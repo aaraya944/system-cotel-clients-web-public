@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/system-cotel-clients-web-public/static/css/main.198b8ba2.css",
+    "main.js": "/system-cotel-clients-web-public/static/js/main.21104b1a.js",
+    "static/js/498.b1312a11.chunk.js": "/system-cotel-clients-web-public/static/js/498.b1312a11.chunk.js",
+    "static/js/703.43e6d999.chunk.js": "/system-cotel-clients-web-public/static/js/703.43e6d999.chunk.js",
+    "static/js/513.d032aa95.chunk.js": "/system-cotel-clients-web-public/static/js/513.d032aa95.chunk.js",
+    "index.html": "/system-cotel-clients-web-public/index.html",
+    "main.198b8ba2.css.map": "/system-cotel-clients-web-public/static/css/main.198b8ba2.css.map",
+    "main.21104b1a.js.map": "/system-cotel-clients-web-public/static/js/main.21104b1a.js.map",
+    "498.b1312a11.chunk.js.map": "/system-cotel-clients-web-public/static/js/498.b1312a11.chunk.js.map",
+    "703.43e6d999.chunk.js.map": "/system-cotel-clients-web-public/static/js/703.43e6d999.chunk.js.map",
+    "513.d032aa95.chunk.js.map": "/system-cotel-clients-web-public/static/js/513.d032aa95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198b8ba2.css",
+    "static/js/main.21104b1a.js"
+  ]
+}
